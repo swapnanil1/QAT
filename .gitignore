@@ -1,0 +1,24 @@
+# Obsidian specific files and folders
+.obsidian/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Common backup/temporary file extensions
+*.bak
+*.tmp
+
+# Optional: Ignore log files if any plugins generate them
+*.log
+
+# Optional: If you use Obsidian Sync, ignore conflict files explicitly
+# (though covered by .obsidian/ rule, being explicit doesn't hurt)
+sync-conflict-*.*
+.sync/
+
+# Optional: Add any personal folders or prefixes you use for drafts/private notes
+# Example:
+# Private/
+# _scratchpad/
+# *.private.md
